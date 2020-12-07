@@ -1,9 +1,11 @@
-<h1>{{title}}</h1>
-{{#each messages}}
-<div class="message">
-    <h2>{{this.user}}</h2>
-    <p>{{this.text}}</p>
-    <p>{{this.added}}</p>
+<div class="container">
+    <h1>{{title}}</h1>
+    {{#each messages}}
+    <div class="message">
+        <h2>{{this.user}}</h2>
+        <p class="message-text">{{this.text}}</p>
+        <p class="date">{{this.added}}</p>
+    </div>
+    {{/each}}
+    <a href="new" class="link">Add a message</a>
 </div>
-{{/each}}
-<h3><a href="new">Add a message</a></h3>
