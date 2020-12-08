@@ -1,5 +1,13 @@
 # mini-message-board
+
 Mini message board from The Odin Project
 
-# Link
+## Link
+
 https://damp-atoll-47935.herokuapp.com/
+
+## Todo
+
+- Responsive
+- Database
+- Form validation
