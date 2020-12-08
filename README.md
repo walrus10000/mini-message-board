@@ -2,12 +2,12 @@
 
 Mini message board from The Odin Project
 
-## Link
+## Live demo
 
 https://damp-atoll-47935.herokuapp.com/
 
 ## Todo
 
-- Responsive
-- Database
-- Form validation
+- [ ] Responsive
+- [ ] Database
+- [ ] Form validation
