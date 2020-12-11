@@ -6,6 +6,14 @@ Mini message board from The Odin Project
 
 https://damp-atoll-47935.herokuapp.com/
 
+## Screenshots
+
+Index
+![index](./public/screenshots/index.png)
+
+Create message
+![create message](./public/screenshots/create.png)
+
 ## Todo
 
 - [ ] Responsive
